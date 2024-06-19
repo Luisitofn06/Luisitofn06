@@ -21,7 +21,7 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) 
 ## Projetos Criativos
 
 🎨 Aqui estão alguns dos meus primeiros projetos em C#:
